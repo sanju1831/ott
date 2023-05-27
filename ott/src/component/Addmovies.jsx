@@ -71,7 +71,6 @@ const Addmovies = () => {
     return (
          
         <div className="addmovies">
-            <h1>manju</h1>
             <h1>Add Movies</h1>
             <form onSubmit={handleAddMovie}>
                 <div className="inputouter">
