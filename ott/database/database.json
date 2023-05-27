@@ -1,0 +1,358 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "moviename": "Kantara",
+      "hero": "Rishab",
+      "heroine": "sapthami gowda",
+      "director": "Rishab shetty",
+      "languages": [
+        "kannada",
+        "tamil",
+        "telugu",
+        "malayalam",
+        "hindi"
+      ],
+      "genre": "divine",
+      "poster": "https://static.toiimg.com/thumb/msid-97698497,width-1280,resizemode-4/97698497.jpg",
+      "trailer": "https://www.youtube.com/embed/ppYoIoW73PI",
+      "release": "2022",
+      "rating": "9.5",
+      "synopsis": "Set in a fictional village of Dakshina Kannada, Kantara is a visual grandeur that brings alive the traditional culture of Kambla and Bhootha Kola. It is believed that Demigods are the guardians and their energies encircle the village. In the story, there is a ripple when a battle of ego swirls along tradition and culture of the land. The soul of the story is on human and nature conflict in which Shiva is the rebellion and works against nature. There are intense conflicts he indulges in. In the end, a much awaiting loop leads to war between the villagers and the evil forces. Will Shiva, the protagonist of the film be able to reinstate peace and harmony in the village perceiving his existence?"
+    },
+    {
+      "id": "2",
+      "moviename": "KGF",
+      "hero": "Yash",
+      "heroine": "Sreenidhi sheety",
+      "director": "prashant neel",
+      "languages": [
+        "kannada",
+        "tamil",
+        "telugu",
+        "malayalam",
+        "hindi"
+      ],
+      "genre": "action",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/kgf-chapter-2-et00098647-08-04-2022-11-33-32.jpg",
+      "trailer": "https://www.youtube.com/embed/Qah9sSIXJqk",
+      "release": "2021",
+      "rating": "9.3",
+      "synopsis": "The blood-soaked land of Kolar Gold Fields (KGF) has a new overlord now - Rocky, whose name strikes fear in the heart of his foes. His allies look up to Rocky as their saviour, the government sees him as a threat to law and order; enemies are clamouring for revenge and conspiring for his downfall. Bloodier battles and darker days await as Rocky continues on his quest for unchallenged supremacy."
+    },
+    {
+      "id": "3",
+      "moviename": "RRR",
+      "hero": "NTR Ramcharan",
+      "heroine": "alia",
+      "director": "Rajmouli",
+      "languages": [
+        "kannada",
+        "tamil",
+        "telugu",
+        "malayalam",
+        "hindi"
+      ],
+      "genre": "history",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/extra/vertical_logo/mobile/thumbnail/xxlarge/rrr-et00094579-12-05-2022-02-26-04.jpg",
+      "trailer": "https://www.youtube.com/embed/GY4BgdUSpbE",
+      "release": "2021",
+      "rating": "8",
+      "synopsis": "RRR is a period drama set in India during the 1920s, revolving around the inspiring journey of two of India`s freedom fighters - Alluri Sitarama Raju and Komaram Bheem."
+    },
+    {
+      "id": "4",
+      "moviename": "apthamitra",
+      "hero": "vishuvardhan",
+      "heroine": "soudariya",
+      "director": "p vasu",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "horror",
+      "poster": "https://m.media-amazon.com/images/I/81duXR-7hOL._SL1420_.jpg",
+      "trailer": "https://www.youtube.com/embed/Gf-qmEbnL0I",
+      "release": "2004",
+      "rating": "10",
+      "synopsis": "stars Vishnuvardhan, Soundarya and Ramesh Arvind in the lead roles with Prema, Dwarakish and Avinash in supporting roles. The movie is a remake of the 1993 Malayalam film Manichithrathazhu.[4] The film was released on 27 August 2004 on Varalakshmi festival to positive reviews.[5]It ran for one-hundred days in theaters across Karnataka and was one of the highest-grossing films of the year.[6] Apthamitra was later followed by its sequel, Aptharakshaka (2010). P. Vasu also remade the film in Tamil in 2005 as Chandramukhi with Rajinikanth and Jyothika in the leads. Actress Soundarya is remembered for her performance in this film?"
+    },
+    {
+      "id": "5",
+      "moviename": "Love mocktail",
+      "hero": "Darling Krishna",
+      "heroine": "Milana Nagaraj , Amrutha",
+      "director": "Darling Krishna",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "romance",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/love-mocktail-et00124382-20-10-2020-09-58-18.jpg",
+      "trailer": "https://www.youtube.com/embed/IsEdANxZD3c",
+      "release": "2020",
+      "rating": "8",
+      "synopsis": "Love moctail is a romantic and fun film about the protagonist Adi`s quest for love. Life takes him through a roller coaster of a ride and he goes through varied experiences at several stages throughout his search for true love. Does Adi finally find his soul mate?"
+    },
+    {
+      "id": "6",
+      "moviename": "Hondisi Bareyiri",
+      "hero": "Naveen Shankar, PraveenTej",
+      "heroine": "ishani shetty , Archana jois",
+      "director": "Ramenahalli Jagannatha ",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "romance",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/hondisi-bareyiri-et00350710-1674460291.jpg",
+      "trailer": "https://www.youtube.com/embed/awI6elU5dCs",
+      "release": "2023",
+      "rating": "8",
+      "synopsis": "The lives of five engineering college students and how they deal with the challenges of growing up and facing the realities of life"
+    },
+    {
+      "id": 7,
+      "moviename": "Sita Raman",
+      "hero": "Dulqer Salman",
+      "heroine": "Mrunal Thakur",
+      "director": "Hanu Raghavapudi",
+      "languages": [
+        "Malayalam"
+      ],
+      "genre": "Romance",
+      "poster": "https://i.scdn.co/image/ab67616d0000b2732e158802ee406ee3b29073eb",
+      "trailer": "https://www.youtube.com/embed/Ljk6tGZ1l3A",
+      "release": "2022",
+      "rating": "8.7",
+      "synopsis": "Sita Ramam is a 2022 Indian Telugu-language period romantic film written and directed by Hanu Raghavapudi. Produced by Vyjayanthi Movies and Swapna Cinema, the film stars Dulquer Salmaan, Mrunal Thakur, Rashmika Mandanna and Sumanth. The movie marks Mrunal Thakur's debut in Tollywood. Set in 1964, Lieutenant Ram, an orphaned army officer serving at the Kashmir border, gets anonymous love letters from Sita Mahalakshmi, after which Ram is on a mission to find Sita and propose his love."
+    },
+    {
+      "id": 9,
+      "moviename": "Hercules",
+      "hero": "Dwayne Jhonson",
+      "heroine": "Bardel",
+      "director": "Brett Ratner",
+      "languages": [
+        "English"
+      ],
+      "genre": "Action",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4ODA5MTA4OF5BMl5BanBnXkFtZTgwNjMyODM5MTE@._V1_.jpg",
+      "trailer": "https://www.youtube.com/embed/HydiAICZq6I",
+      "release": "2014",
+      "rating": "7.9",
+      "synopsis": "Hercules is a 2014 American action-adventure fantasy film starring Dwayne Johnson as the titular character. It is directed by Brett Ratner from a screenplay written by Ryan J. Condal and Evan Spiliotopoulos. The film also stars Ian McShane, Rufus Sewell, Joseph Fiennes, Peter Mullan, and John Hurt. It is based on Steve Moore's graphic novel Hercules, specifically The Thracian Wars limited series."
+    },
+    {
+      "id": 10,
+      "moviename": "Jackie",
+      "hero": "Punith Raj Kumar",
+      "heroine": "Bhavana",
+      "director": "Yogaraj Bhat",
+      "languages": [
+        "Kananda"
+      ],
+      "genre": "Romance",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm05ziEVofT7WDrxce4wDkqmX7qEoIfHbLpg&usqp=CAU",
+      "trailer": "https://www.youtube.com/embed/pgUa7t5fGeM",
+      "release": "2010",
+      "rating": "7.5",
+      "synopsis": "Jackie is a 2010 Indian Kannada-language action film[4] directed by Soori and stars Puneeth Rajkumar and Bhavana.[5] It was released in Kannada on 14 October 2010 to a critical acclaim[6] and was adjudged the Best Film of 2010 at the South Filmfare Awards.[7] The Telugu dubbed version was released on 6 May 2011."
+    },
+    {
+      "id": 11,
+      "moviename": "Yajamana",
+      "hero": "Vishnu Vardhan",
+      "heroine": "Prema",
+      "director": "Radha Bharathi",
+      "languages": [
+        "Kananda"
+      ],
+      "genre": "Family Entartain",
+      "poster": "https://i.ytimg.com/vi/ixOgqVNrxzs/maxresdefault.jpg",
+      "trailer": "https://www.youtube.com/embed/RAq7UeRZvlc",
+      "release": "2000",
+      "rating": "8.2",
+      "synopsis": "Yajamana is a 2000 Indian Kannada-language film directed by R. Sheshadri and Radha Bharathi. The film is a remake of Tamil film Vaanathaippola (2000), the movie became an Industry hit by creating many records.[1] The film stars Dr.Vishnuvardhan, Prema, Shashikumar and Abhijeeth."
+    },
+    {
+      "id": 12,
+      "moviename": "Ek Tha Tiger",
+      "hero": "Salman Khan",
+      "heroine": "Katrina Kaif",
+      "director": "Kabir Khan",
+      "languages": [
+        "Hindi"
+      ],
+      "genre": "Action",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Ek_Tha_Tiger_theatrical_poster.jpg/220px-Ek_Tha_Tiger_theatrical_poster.jpg",
+      "trailer": "https://www.youtube.com/embed/SmUl0l8qBXw",
+      "release": "2012",
+      "rating": "8.1",
+      "synopsis": "Ek Tha Tiger (transl. Once There Was a Tiger) is a 2012 Indian Hindi-language action thriller film directed by Kabir Khan and co-written by Khan and Neelesh Misra, from a story by producer Aditya Chopra. Produced under the Yash Raj Films banner, it is the first installment in the Tiger franchise and the first film in the YRF Spy Universe."
+    },
+    {
+      "id": 13,
+      "moviename": "Kavaludaari",
+      "hero": "Rishi",
+      "director": "Hemanth Rao",
+      "languages": [
+        "Kananda"
+      ],
+      "genre": "Thriller",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/Kavaludaari.jpg/220px-Kavaludaari.jpg",
+      "trailer": "https://www.youtube.com/embed/5w1vgMoPMRA",
+      "release": "2019",
+      "rating": "7.9",
+      "synopsis": "Kavaludaari (transl. Crossroads) is a 2019 Indian Kannada-language neo-noir thriller film written and directed by Hemanth Rao,[1] presented by Puneeth Rajkumar and produced by Ashwini Puneeth Rajkumar of PRK Productions.[2] Kavaludaari will be the first feature film presentation from the production house."
+    },
+    {
+      "id": 14,
+      "moviename": "Raajakumara",
+      "hero": "Punith Raj Kumar",
+      "heroine": "Mrunal Thakur",
+      "director": "Santhosh Anadram",
+      "languages": [
+        "Kananda"
+      ],
+      "genre": "Drama/Action",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVyR7uc23nWxaNAX6Uq7BwKTmMicDHFuP0XQ&usqp=CAU",
+      "trailer": "https://www.youtube.com/embed/q9Yh9HcOmlo",
+      "release": "2017",
+      "rating": "7.8",
+      "synopsis": "Raajakumara (transl. The Prince) is a 2017 Indian Kannada-language action drama film written and directed by Santhosh Ananddram and produced by Vijay Kiragandur under Hombale Films. It stars Puneeth Rajkumar and Priya Anand. Ananth Nag, Sarath Kumar, Prakash Raj, Chikkanna, Sadhu Kokila, Achyuth Kumar and Avinash play supporting roles.[3] The film's music album was composed by V. Harikrishna."
+    },
+    {
+      "moviename": "Gaalipata",
+      "hero": "Ganesh",
+      "heroine": "Daisy bopanna",
+      "director": "Yogaraj Bhat",
+      "genre": "drama",
+      "poster": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7962/1427962-i-77e45d8de77c",
+      "trailer": "https://www.youtube.com/embed/RZI6gZqWH48",
+      "release": "2008",
+      "rating": "9.5",
+      "synopsis": "Three best friends goes to Thirthahalli for their vacation but there of then falls in love with three girls.",
+      "languages": [
+        "add selected langusages"
+      ],
+      "id": 15
+    },
+    {
+      "moviename": "Appu",
+      "hero": "Puneeth rajkumar",
+      "heroine": "Rakshitha",
+      "director": "Puri jagannath",
+      "genre": "action",
+      "poster": "https://m.media-amazon.com/images/I/81MswPo2m0L._SL1420_.jpg",
+      "trailer": "https://www.youtube.com/embed/0QJZw9wC4Gc",
+      "release": "2002",
+      "rating": "8.5",
+      "synopsis": "Appu hails from a lower middle class family. After picking up a fight in college, he injures himself and is saved by Suchitra, who donates blood to save him and they both fall in love.",
+      "languages": [
+        "add selected langusages"
+      ],
+      "id": 17
+    },
+    {
+      "moviename": "The Kerala Story",
+      "hero": "Pranay Pachauri",
+      "heroine": " Adah Sharma",
+      "director": " Sudipto Sen",
+      "genre": "drama",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/the-kerala-story-et00343918-1683025350.jpg",
+      "trailer": "https://www.youtube.com/embed/3Jk3vquJDGs",
+      "release": "2023",
+      "rating": "9.5",
+      "synopsis": "A spine-chilling, never told before true story - revealing a dangerous conspiracy that has been hatched against India. The Kerala Story is a compilation of the true stories of three young girls from different parts of Kerala.\n\nThe truth shall set us free! Thousands of innocent women have been systematically converted, radicalized & their lives destroyed. It`s their side of the story.",
+      "languages": [
+        "add selected langusages"
+      ],
+      "id": 18
+    },
+    {
+      "moviename": "Love Mocktail 2",
+      "hero": "Darling Krishna",
+      "heroine": "Milana nagraj",
+      "director": "Darling Krishna",
+      "genre": "romance",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/love-mocktail-2-et00322025-01-02-2022-01-57-25.jpg",
+      "trailer": "https://www.youtube.com/embed/dksKhOPWEIM",
+      "release": "2022",
+      "rating": "8.5",
+      "synopsis": "A sequel to Love Mocktail, Love Mocktail 2 revolves around Aadi after the demise of his wife Nidhi. How do you move on from such loss?",
+      "languages": [
+        "add selected langusages"
+      ],
+      "id": 19
+    },
+    {
+      "moviename": "Kisi Ka Bhai Kisi Ki Jaan",
+      "hero": "Salman Khan",
+      "heroine": "Pooja Hegde",
+      "director": "Farhad Samji",
+      "languages": [
+        "Kannada",
+        "Hindi"
+      ],
+      "genre": "Romance",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/kisi-ka-bhai-kisi-ki-jaan-et00339118-1681730385.jpg",
+      "trailer": "https://www.youtube.com/embed/bsi8_9EoYyg",
+      "release": "2023",
+      "rating": "7",
+      "synopsis": "Salman Khan is a self-appointed vigilante committed to the cause of keeping the society crime-free. His younger brothers set him up with a woman similar to his previous love interest. What follows is a series of events that takes all of them across the length of the country and various revelations with all the elements of a wholesome entertainer.",
+      "id": 21
+    },
+    {
+      "moviename": "Raja Rani",
+      "hero": "Arya",
+      "heroine": "Nayanthara",
+      "director": "Atlee Kumar",
+      "languages": [
+        "Tamil",
+        "Telugu",
+        "Malayalam"
+      ],
+      "genre": "Romance",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/raja-rani-et00015714-08-02-2017-10-17-31.jpg",
+      "trailer": "https://www.youtube.com/embed/wZm38_0aIXk",
+      "release": "2014",
+      "rating": "8",
+      "synopsis": "Raja Rani staring Arya Nayantara Jai and Nazriya Nazim is a story of a journey of a two completely strange individuals from nuptial rites to getting to know each-other to falling in love. The film shows how two individuals who marry each other against their wishes subsequently fall in love.",
+      "id": 22
+    },
+    {
+      "moviename": "777 Charlie",
+      "hero": "Rakshith Shetty",
+      "heroine": "Sangeetha Sringeri",
+      "director": "Kiranraj K",
+      "languages": [
+        "Kannada",
+        "Tamil",
+        "Telugu",
+        "Malayalam",
+        "Hindi"
+      ],
+      "genre": "Drama",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/777-charlie-et00077150-31-05-2022-11-46-42.jpg",
+      "trailer": "https://www.youtube.com/embed/REqFOV2A7sI",
+      "release": "2022",
+      "rating": "9.5",
+      "synopsis": "A loner with antisocial tendencies finds his life turning around for the better when a lively pup named Charlie enters his life. Penned and directed by Kiranraj, 777 Charlie stars Rakshit Shetty in the lead role.",
+      "id": 23
+    },
+    {
+      "moviename": "Shivaji Surathkal 2",
+      "hero": "Ramesh Aravind",
+      "heroine": "Radhika Narayan",
+      "director": "Akash Srivatsa",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "Thriller",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/shivaji-surathkal-2-et00356291-1680262012.jpg",
+      "trailer": "https://www.youtube.com/embed/tqbQtbiccB0",
+      "release": "2023",
+      "rating": "8",
+      "synopsis": "Five years have flown by since Shivaji cracked the infamous Ranagiri case. Although he knows who killed his wife and why, Janani's absence still haunts him. Can he get it together to catch a serial killer?",
+      "id": 24
+    }
+  ]
+}
